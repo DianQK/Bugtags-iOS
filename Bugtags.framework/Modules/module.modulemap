@@ -1,0 +1,6 @@
+framework module Bugtags {
+    header "Bugtags.h"
+    header "BTGConstants.h"
+
+    export *
+}
